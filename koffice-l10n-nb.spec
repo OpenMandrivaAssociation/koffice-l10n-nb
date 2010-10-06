@@ -1,5 +1,5 @@
 Name: koffice-l10n-nb
-Version: 2.2.81
+Version: 2.2.82
 Release: %mkrel 1
 Summary: Language files for KOffice Norwegian
 Group: System/Internationalization
